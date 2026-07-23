@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just learning. Improving. Analysing. 
+Hey I am Justin,
+I'm learning my craft and looking to improve as a data analyst. This github page is my raw attempt at analysing datasets - especially football-related ones. 
+
+**Currently working on:**
+I am currently working on a simple possession analysis using data from StatsBomb. 
+
+##Tools used
+R is the main tool used to analyse data. 
