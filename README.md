@@ -21,5 +21,5 @@ I'm learning my craft and looking to improve as a data analyst. This github page
 **Currently working on:**
 I am currently working on a simple possession analysis using data from StatsBomb. 
 
-##Tools used
+## Tools used
 R is the main tool used to analyse data. 
